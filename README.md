@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Suhel Idrish 👋
 
-<!--
-**suhel-hash/suhel-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | MS Data Science Student
 
-Here are some ideas to get you started:
+I'm passionate about Python, data analysis, and solving real-world problems through data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Education**
+- Bachelor of Computer Applications (BCA), 2023
+- Master's in Data Science — Pursuing
+
+💻 **Currently Learning**
+- Python Programming
+- SQL
+- Microsoft Excel
+- Power BI
+- Statistics and Data Analysis
+
+🚀 **What I'm Working On**
+- Building practical Python projects
+- Strengthening my problem-solving skills
+- Developing data analytics projects for my portfolio
+
+🎯 **Career Goal**
+
+To become a skilled Data Analyst and use data to support better decision-making.
+
+📫 **Let's Connect**
+
+- GitHub: https://github.com/suhel-hash
+
