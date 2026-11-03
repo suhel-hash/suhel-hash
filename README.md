@@ -18,6 +18,23 @@ I'm passionate about Python, data analysis, and solving real-world problems thro
 🚀 **What I'm Working On**
 - Building practical Python projects
 - Strengthening my problem-solving skills
+## 🛠️ Technical Skills
+
+### Programming
+- Python
+
+### Data Analysis
+- SQL
+- Microsoft Excel
+- Statistics
+
+### Data Visualization
+- Power BI
+
+### Currently Exploring
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Analytics Projects
 - Developing data analytics projects for my portfolio
 
 🎯 **Career Goal**
